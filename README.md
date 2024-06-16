@@ -33,7 +33,7 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or check out my projects here on GitHub!
+Feel free to connect with me on [www.linkedin.com/in/amr-shams-22550a23b) or check out my projects here on GitHub!
 
 ---
 
