@@ -35,6 +35,20 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
 
 Feel free to connect with me on [www.linkedin.com/in/amr-shams-22550a23b) or check out my projects here on GitHub!
 
+
+<br>
+
+<h1 align="center"></h1> 
+<br>
+<p align="center" margin="auto">
+<img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAshrafH&hide=css,scss,html&show_icons=true&locale=en&layout=donut&bg_color=0d1117&text_color=ffffff&langs_count=6"
+            alt="KhaledAshrafH" width="50%"/></p>
+ <h1 align="center"></h1>
+
+<br>
+
+
 ---
 
 Thank you for visiting my profile. Let's learn and grow together!
