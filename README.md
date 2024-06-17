@@ -132,6 +132,8 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
 <a href="http://www.github.com/AmrShams9" >
   <img src="https://github-readme-stats.vercel.app/api?username=AmrShams9&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=581c87&hide_border=true&show_icons=true" alt="AmrShams9's GitHub stats" />
 </a>
+<br>
+<br>
 
 <a href="http://www.github.com/AmrShams9" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrShams9&stroke=ffffff&background=581c87&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
