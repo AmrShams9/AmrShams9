@@ -136,13 +136,6 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <a href="http://www.github.com/AmrShams9" align="Left" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrShams9&stroke=ffffff&background=581c87&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
