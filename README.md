@@ -129,14 +129,14 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AmrShams9">
+<a href="http://www.github.com/AmrShams9" align="Center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmrShams9&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=581c87&hide_border=true&show_icons=true" alt="AmrShams9's GitHub stats" />
 </a>
 
-<a href="http://www.github.com/AmrShams9">
+<a href="http://www.github.com/AmrShams9" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrShams9&stroke=ffffff&background=581c87&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-<a href="https://github.com/AmrShams9" align="left">
+<a href="https://github.com/AmrShams9" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrShams9&langs_count=10&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
