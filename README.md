@@ -12,6 +12,9 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
 <a href="https://www.github.com/AmrShams9" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/AmrShams9?logo=github&style=for-the-badge&color=000000&labelColor=581c87" />
 </a>
+<a href="https://komarev.com/ghpvc/?username=AmrShams9">
+  <img src="https://komarev.com/ghpvc/?username=AmrShams9&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="AmrShams9" />
+</a>
 
 ### Skills 
 
@@ -90,9 +93,6 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
