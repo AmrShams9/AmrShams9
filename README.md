@@ -125,6 +125,29 @@ Hello! I'm a passionate software engineer always eager to learn and explore new 
   </a>
 </p>
 
+<br>
+
+<h1 align="center"></h1> 
+<br>
+<p align="center" margin="auto">
+<img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrShams9&hide=css,scss,html&show_icons=true&locale=en&layout=donut&bg_color=0d1117&text_color=ffffff&langs_count=6"
+            alt="AmrShams9" width="50%"/></p>
+ <h1 align="center"></h1>
+
+<br>
+
+<p align="center" margin="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmrShams9&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="AmrShams9" width="50%"/></p>
+<h1 align="center"></h1>
+<br>
+
+<p align="center" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrShams9&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AmrShams9" width="50%"/></p>
+
+<h1 align="center"></h1>   
+<br>
+
+
 
 
 
